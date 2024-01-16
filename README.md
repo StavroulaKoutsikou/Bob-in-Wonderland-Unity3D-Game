@@ -10,12 +10,14 @@ Still a work in progress
 #
 Ελπιζω να δειτε την ομορφια του παιχνιδιου και την προσπαθεια!
 
+![Screenshot 2024-01-16 201300](https://github.com/StavroulaKoutsikou/Bob-in-Wonderland-game/assets/72344015/84fc9856-eabd-4b94-b53f-aa56a9564b27)
 
-![image](https://github.com/StavroulaKoutsikou/Bob-in-Wonderland/assets/72344015/7b129f8a-9a64-46c9-8139-4a378cc54673)
 
-![image](https://github.com/StavroulaKoutsikou/Bob-in-Wonderland/assets/72344015/788d295e-f7eb-4d38-a619-60963d88b796)
+![Screenshot 2024-01-16 201348](https://github.com/StavroulaKoutsikou/Bob-in-Wonderland-game/assets/72344015/c4d194b7-91ca-410c-9d23-8cfdfae27011)
 
-![image](https://github.com/StavroulaKoutsikou/Bob-in-Wonderland/assets/72344015/c864b5b7-98ab-4f0d-b9bb-630f1f3ad540)
+
+
+![Screenshot 2024-01-16 201451](https://github.com/StavroulaKoutsikou/Bob-in-Wonderland-game/assets/72344015/e4715005-aa88-4321-967d-f1aac6d3e589)
 
 
 #
